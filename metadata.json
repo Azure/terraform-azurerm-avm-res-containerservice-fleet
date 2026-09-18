@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "AKS Fleet",
+  "moduleDescription": "AVM Resource Module for AKS Fleet",
+  "canonicalType": "Microsoft.ContainerService/fleets",
+  "owners": [
+    "didayal-msft",
+    "amruta53"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.667e3df"
+}
