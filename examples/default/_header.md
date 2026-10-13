@@ -1,3 +1,3 @@
 # Default example
 
-This deploys the module in its simplest form.
+This exercises the generic virtual network starter. It does not deploy AKS Fleet.
